@@ -1,0 +1,4 @@
+serverless.yml
+node_modules
+jspm_packages
+.serverless
